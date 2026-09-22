@@ -1,4 +1,3 @@
-const prompt = require ('prompt-sync')();
 const étudiant = {
     Nom : 'Aboueljad',
     Prenom : 'Salma',

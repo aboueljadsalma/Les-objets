@@ -1,4 +1,3 @@
-const prompt = require ('prompt-sync')();
 const Rectangle ={
     Longeur : 10 ,
     Largeur : 5 ,

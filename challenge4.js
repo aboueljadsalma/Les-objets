@@ -1,4 +1,3 @@
-const prompt=require('prompt-sync')();
 const Point = {
     X : 16 ,
     Y : 4
